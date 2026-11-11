@@ -1,0 +1,20 @@
+{
+  "chants": [
+    {
+      "id": "noel_horeb",
+      "titre": "Noël Horeb",
+      "categorie": "Noël",
+      "pupitre": "Tous",
+      "version": 1,
+      "pdf": "https://yered-sakamoto.github.io/chant-asla-pdf/pdfs/noel_horeb.pdf"
+    },
+    {
+      "id": "noel_2024",
+      "titre": "Noël 2024",
+      "categorie": "Noël",
+      "pupitre": "Tous",
+      "version": 1,
+      "pdf": "https://yered-sakamoto.github.io/chant-asla-pdf/pdfs/noel_2024.pdf"
+    }
+  ]
+}
